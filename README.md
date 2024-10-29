@@ -1,3 +1,5 @@
-# Synergy Community Edition
+# Synergy
 
-The upstream project for Synergy is now [Deskflow](https://github.com/deskflow/deskflow) (previously Synergy Community Edition).
+Use the keyboard, mouse, or trackpad of one computer to control nearby computers, and work seamlessly between them.
+
+[Get Synergy](https://symless.com/synergy)
